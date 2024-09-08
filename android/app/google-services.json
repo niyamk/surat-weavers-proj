@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433589948418",
+    "project_id": "surat-weavers-project",
+    "storage_bucket": "surat-weavers-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433589948418:android:70b697cd80d94be51ed71b",
+        "android_client_info": {
+          "package_name": "com.example.surat_weavers_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCro6k2FoZ-VHjM8A119Utt1QQC2Nec_BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
